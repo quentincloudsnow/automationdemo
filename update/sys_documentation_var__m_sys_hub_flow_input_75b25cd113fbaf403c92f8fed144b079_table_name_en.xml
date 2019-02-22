@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="table_name" label="Table Name" language="en" table="var__m_sys_hub_flow_input_75b25cd113fbaf403c92f8fed144b079">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table_name</element>
+            <help/>
+            <hint/>
+            <label>Table Name</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_75b25cd113fbaf403c92f8fed144b079</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>quentin.carton</sys_created_by>
+            <sys_created_on>2019-02-22 03:05:47</sys_created_on>
+            <sys_id>b9b25cd113fbaf403c92f8fed144b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table Name</sys_name>
+            <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_75b25cd113fbaf403c92f8fed144b079_table_name_en</sys_update_name>
+            <sys_updated_by>quentin.carton</sys_updated_by>
+            <sys_updated_on>2019-02-22 03:05:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

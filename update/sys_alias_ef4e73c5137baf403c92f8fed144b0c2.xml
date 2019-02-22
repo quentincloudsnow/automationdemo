@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_automation_d.instancecred</id>
+        <multiple_connections>false</multiple_connections>
+        <name>instancecred</name>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:37:02</sys_created_on>
+        <sys_id>ef4e73c5137baf403c92f8fed144b0c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_automation_d.instancecred</sys_name>
+        <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+        <sys_update_name>sys_alias_ef4e73c5137baf403c92f8fed144b0c2</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:37:02</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+</record_update>

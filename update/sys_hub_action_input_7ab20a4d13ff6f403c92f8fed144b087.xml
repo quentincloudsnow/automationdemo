@@ -38,7 +38,7 @@
         <label>servicename</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
-        <model display_value="Stop/Start Windows Service">c950758513bf6f403c92f8fed144b0e8</model>
+        <model display_value="Restart Windows Service">c950758513bf6f403c92f8fed144b0e8</model>
         <model_id>c950758513bf6f403c92f8fed144b0e8</model_id>
         <model_table>sys_hub_action_type_snapshot</model_table>
         <name>var__m_sys_hub_action_input_c950758513bf6f403c92f8fed144b0e8</name>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_step_instance">
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="Trigger Discovery">9b2fb709137baf403c92f8fed144b0e1</action>
+        <cid>65530fa0-7925-4ba8-848b-4e203d33b7fe</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <inputs/>
+        <label>REST step</label>
+        <order>1</order>
+        <outputs/>
+        <step_type display_value="REST">07a762fb47222200b4fad7527c9a7129</step_type>
+        <sys_class_name>sys_hub_step_instance</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:25</sys_created_on>
+        <sys_id>572fb709137baf403c92f8fed144b0ec</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>REST step</sys_name>
+        <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+        <sys_update_name>sys_hub_step_instance_572fb709137baf403c92f8fed144b0ec</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=572fb709137baf403c92f8fed144b0ec"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>572fb709137baf403c92f8fed144b0ec</document_key>
+        <order>15</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>232fb709137baf403c92f8fed144b0fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <value>https://empqcarton1.service-now.com</value>
+        <variable display_value="">a67a8ef03b23320057a4a2e334efc472</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>572fb709137baf403c92f8fed144b0ec</document_key>
+        <order>5</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>2f2fb709137baf403c92f8fed144b0fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <value>define_connection_inline</value>
+        <variable display_value="">91e207d03b50030057a4a2e334efc4a0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>572fb709137baf403c92f8fed144b0ec</document_key>
+        <order>12</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>6b2fb709137baf403c92f8fed144b0fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <value>35aa573fd7802200bdbaee5b5e610375</value>
+        <variable display_value="">f11ebf865f101300a09a2abd7f466652</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>572fb709137baf403c92f8fed144b0ec</document_key>
+        <order>13</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>6f2fb709137baf403c92f8fed144b0fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <value>18409d8007482000dada43c0d1021e8f</value>
+        <variable display_value="">c30a451d2f201300a09a839fb18c95b4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>572fb709137baf403c92f8fed144b0ec</document_key>
+        <order>25</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>a72fb709137baf403c92f8fed144b0fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <value>post</value>
+        <variable display_value="">e85b7ebf47222200b4fad7527c9a71e3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>572fb709137baf403c92f8fed144b0ec</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>e32fb709137baf403c92f8fed144b0fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <value>ef4e73c5137baf403c92f8fed144b0c2</value>
+        <variable display_value="">445c2a72b3701300176b051a16a8dcc2</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=572fb709137baf403c92f8fed144b0ec"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>application</field>
+        <id>572fb709137baf403c92f8fed144b0ec</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>672fb709137baf403c92f8fed144b0fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>base_url</field>
+        <id>572fb709137baf403c92f8fed144b0ec</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>2f2fb709137baf403c92f8fed144b0fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>capabilities</field>
+        <id>572fb709137baf403c92f8fed144b0ec</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>6b2fb709137baf403c92f8fed144b0fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>connection</field>
+        <id>572fb709137baf403c92f8fed144b0ec</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>eb2fb709137baf403c92f8fed144b0fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>credential_alias</field>
+        <id>572fb709137baf403c92f8fed144b0ec</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>ef2fb709137baf403c92f8fed144b0fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>http_method</field>
+        <id>572fb709137baf403c92f8fed144b0ec</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>a32fb709137baf403c92f8fed144b0fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>resource_path</field>
+        <id>572fb709137baf403c92f8fed144b0ec</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 01:40:26</sys_created_on>
+        <sys_id>2b2fb709137baf403c92f8fed144b0fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 01:40:26</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
+        <value>/api/snc/discovery/ipaddress/{{action.ipaddress}}</value>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Restart a Windows Service">c984c2011333af403c92f8fed144b078</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-21 18:25:44</sys_created_on>
+        <sys_id>8cbb5ecd1373af403c92f8fed144b04c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Restart a Windows Service</sys_name>
+        <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_8cbb5ecd1373af403c92f8fed144b04c</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-21 18:25:44</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

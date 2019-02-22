@@ -3,7 +3,7 @@
         <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"75b4c6011333af403c92f8fed144b01c","name":"plan"}}</plan>
         <plan_id>b41f690513bf6f403c92f8fed144b0e3</plan_id>
-        <snapshot>6cee0ecd1333af403c92f8fed144b07c</snapshot>
+        <snapshot>627c186913bfaf0061e07f176144b0ab</snapshot>
         <sys_class_name>sys_flow_trigger_plan</sys_class_name>
         <sys_created_by>quentin.carton</sys_created_by>
         <sys_created_on>2019-02-21 16:45:23</sys_created_on>

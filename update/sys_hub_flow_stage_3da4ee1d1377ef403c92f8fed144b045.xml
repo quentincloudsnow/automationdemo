@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_stage">
+    <sys_hub_flow_stage action="INSERT_OR_UPDATE">
+        <always_show>true</always_show>
+        <ancestor_component_id/>
+        <ancestor_stage_id/>
+        <component_indexes>2</component_indexes>
+        <duration>1970-01-01 00:00:00</duration>
+        <flow display_value="QC Restart Service">b41f690513bf6f403c92f8fed144b0e3</flow>
+        <label>Restart Service/Application</label>
+        <order>2</order>
+        <stage_id>798a8063-956c-4b1e-b18c-919f333934b2</stage_id>
+        <states>{"pending":"Pending - has not started","inprogress":"In progress","skipped":"Skipped","complete":"Completed","error":"Error"}</states>
+        <sys_class_name>sys_hub_flow_stage</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 13:43:24</sys_created_on>
+        <sys_id>3da4ee1d1377ef403c92f8fed144b045</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Restart Service/Application</sys_name>
+        <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+        <sys_update_name>sys_hub_flow_stage_3da4ee1d1377ef403c92f8fed144b045</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 13:43:24</sys_updated_on>
+        <type>standard</type>
+        <value>Automated process</value>
+    </sys_hub_flow_stage>
+</record_update>

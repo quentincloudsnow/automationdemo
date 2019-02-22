@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_stage">
+    <sys_hub_flow_stage action="INSERT_OR_UPDATE">
+        <always_show>true</always_show>
+        <ancestor_component_id/>
+        <ancestor_stage_id/>
+        <component_indexes>4</component_indexes>
+        <duration>1970-01-01 00:00:00</duration>
+        <flow display_value="QC Restart Service">e9b486011333af403c92f8fed144b0ec</flow>
+        <label>Trigger ServiceNow Discovery</label>
+        <order>3</order>
+        <stage_id>194912ee-82e9-4b5c-bf1c-053f93bed505</stage_id>
+        <states>{"pending":"Pending - has not started","inprogress":"In progress","skipped":"Skipped","complete":"Completed","error":"Error"}</states>
+        <sys_class_name>sys_hub_flow_stage</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-02-22 13:43:35</sys_created_on>
+        <sys_id>a4b4625d1377ef403c92f8fed144b0b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Trigger ServiceNow Discovery</sys_name>
+        <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+        <sys_update_name>sys_hub_flow_stage_a4b4625d1377ef403c92f8fed144b0b2</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-02-22 13:43:35</sys_updated_on>
+        <type>standard</type>
+        <value>update CMDB Record</value>
+    </sys_hub_flow_stage>
+</record_update>

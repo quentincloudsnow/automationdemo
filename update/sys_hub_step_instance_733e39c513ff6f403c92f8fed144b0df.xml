@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_step_instance">
     <sys_hub_step_instance action="INSERT_OR_UPDATE">
-        <action display_value="Stop/Start Windows Service">c950758513bf6f403c92f8fed144b0e8</action>
+        <action display_value="Restart Windows Service">c950758513bf6f403c92f8fed144b0e8</action>
         <cid>3f0cf005-d0a6-4d7b-9b55-b928c5535fe5</cid>
         <extended_inputs/>
         <extended_outputs/>
