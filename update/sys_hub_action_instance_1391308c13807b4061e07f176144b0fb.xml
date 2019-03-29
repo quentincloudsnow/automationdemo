@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Restart Windows Service">c950758513bf6f403c92f8fed144b0e8</action_type>
+        <action_type_parent display_value="Restart Windows Service">832fad0513bf6f403c92f8fed144b013</action_type_parent>
+        <comment/>
+        <compiled_snapshot display_value="Restart Windows Service">c950758513bf6f403c92f8fed144b0e8</compiled_snapshot>
+        <display_text/>
+        <flow display_value="EM_Alert_Restart_Services">1b91308c13807b4061e07f176144b0d9</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-02 18:24:04</sys_created_on>
+        <sys_id>1391308c13807b4061e07f176144b0fb</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+        <sys_update_name>sys_hub_action_instance_1391308c13807b4061e07f176144b0fb</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-02 19:02:44</sys_updated_on>
+        <ui_id>c186b545-9d6d-4d5c-97b5-819c8ca1767a</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=1391308c13807b4061e07f176144b0fb"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>1391308c13807b4061e07f176144b0fb</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-02 18:25:11</sys_created_on>
+        <sys_id>e3d1748c13807b4061e07f176144b0d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-02 18:25:11</sys_updated_on>
+        <value>Spooler</value>
+        <variable display_value="">7ab20a4d13ff6f403c92f8fed144b087</variable>
+    </sys_variable_value>
+</record_update>

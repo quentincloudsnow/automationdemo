@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="servicename" label="ServiceName" language="en" table="var__m_sys_hub_flow_input_3831744c13807b4061e07f176144b050">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>servicename</element>
+            <help/>
+            <hint/>
+            <label>ServiceName</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_3831744c13807b4061e07f176144b050</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>quentin.carton</sys_created_by>
+            <sys_created_on>2019-03-02 18:23:29</sys_created_on>
+            <sys_id>7e71bc4c13807b4061e07f176144b09b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ServiceName</sys_name>
+            <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_3831744c13807b4061e07f176144b050_servicename_en</sys_update_name>
+            <sys_updated_by>quentin.carton</sys_updated_by>
+            <sys_updated_on>2019-03-02 18:23:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

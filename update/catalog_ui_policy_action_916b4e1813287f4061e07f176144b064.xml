@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Add user to AD group">bca88a9013287f4061e07f176144b0af</catalog_item>
+        <catalog_variable>IO:953a869413287f4061e07f176144b018</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-28 16:06:19</sys_created_on>
+        <sys_id>916b4e1813287f4061e07f176144b064</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>selecteduser</sys_name>
+        <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_916b4e1813287f4061e07f176144b064</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-28 16:06:19</sys_updated_on>
+        <table/>
+        <ui_policy display_value="show user only when group is not empty">624bc61813287f4061e07f176144b0bb</ui_policy>
+        <variable>selecteduser</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

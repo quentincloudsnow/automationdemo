@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_stage">
+    <sys_hub_flow_stage action="INSERT_OR_UPDATE">
+        <always_show>true</always_show>
+        <ancestor_component_id/>
+        <ancestor_stage_id/>
+        <component_indexes>2</component_indexes>
+        <duration>1970-01-01 00:00:00</duration>
+        <flow display_value="Add User to Group">7d2d0a1c13287f4061e07f176144b0b5</flow>
+        <label>Sending confirmation email</label>
+        <order>1</order>
+        <stage_id>a92bfa85-5cab-463b-8078-a9135dc1f6cc</stage_id>
+        <states>{"pending":"Pending - has not started","inprogress":"In progress","skipped":"Skipped","complete":"Completed","error":"Error"}</states>
+        <sys_class_name>sys_hub_flow_stage</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-28 16:19:21</sys_created_on>
+        <sys_id>796e4e9c13287f4061e07f176144b07c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sending confirmation email</sys_name>
+        <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+        <sys_update_name>sys_hub_flow_stage_796e4e9c13287f4061e07f176144b07c</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-28 16:19:21</sys_updated_on>
+        <type>standard</type>
+        <value>step2</value>
+    </sys_hub_flow_stage>
+</record_update>

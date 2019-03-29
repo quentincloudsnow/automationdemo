@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <action_type_parent/>
+        <comment>Send confirmation email to requester</comment>
+        <compiled_snapshot display_value="Send Email">716281160b100300d97d8bf637673ac7</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Add User to Group">733c4a9813287f4061e07f176144b011</flow>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-28 16:13:45</sys_created_on>
+        <sys_id>7f1d0a1c13287f4061e07f176144b010</sys_id>
+        <sys_mod_count>30</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+        <sys_update_name>sys_hub_action_instance_7f1d0a1c13287f4061e07f176144b010</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-03-28 16:33:11</sys_updated_on>
+        <ui_id>de103141-11c1-4e02-8d01-2d50bf3df056</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=7f1d0a1c13287f4061e07f176144b010"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>7f1d0a1c13287f4061e07f176144b010</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-28 16:31:08</sys_created_on>
+        <sys_id>5e11da1413687f4061e07f176144b052</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-28 16:31:08</sys_updated_on>
+        <value/>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=7f1d0a1c13287f4061e07f176144b010"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>7f1d0a1c13287f4061e07f176144b010</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-28 16:31:08</sys_created_on>
+        <sys_id>d611da1413687f4061e07f176144b052</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-28 16:31:08</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>&lt;p data-tinymcerootblock=""&gt;Dear&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="bccc4585-908c-4d8a-b21e-c1abb43c28a8" data-pillvalue="{{Service Catalog_1.request_item.request.requested_for.first_name}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="bccc4585-908c-4d8a-b21e-c1abb43c28a8" data-pillvalue="{{Service Catalog_1.request_item.request.requested_for.first_name}}"&gt;Trigger➛Requested Item Record➛Request➛Requested for➛First name&lt;/span&gt;&lt;/span&gt;,&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Your request&amp;nbsp;&lt;span class="data_pill " contenteditable="false" data-pillid="091a1a24-c405-4fa6-855b-428937381261" data-pillvalue="{{Service Catalog_1.request_item.request.number}}"&gt;Trigger➛Requested Item Record➛Request➛Number&lt;/span&gt; has been fulfilled. The user&amp;nbsp;&lt;span class="data_pill " contenteditable="false" data-pillid="bbcc64c1-a9de-44a1-947f-543c082aae95" data-pillvalue="{{7eb4477e-b80f-43e7-b7cc-8f23abd4b296.selecteduser.user_name}}"&gt;1➛selecteduser➛User ID&lt;/span&gt; has been added to the group&amp;nbsp;&lt;span class="data_pill " contenteditable="false" data-pillid="78df4d4c-6135-4ae6-acb8-133373b4055b" data-pillvalue="{{7eb4477e-b80f-43e7-b7cc-8f23abd4b296.selectedgroup.name}}"&gt;1➛selectedgroup➛Name&lt;/span&gt;.&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Thank you for contacting our Global Contact Center.&lt;/p&gt;</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>7f1d0a1c13287f4061e07f176144b010</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-28 16:13:45</sys_created_on>
+        <sys_id>3f1d0a1c13287f4061e07f176144b016</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-28 16:13:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>[Automation Factory] User {{7eb4477e-b80f-43e7-b7cc-8f23abd4b296.selecteduser.name}} added to group {{7eb4477e-b80f-43e7-b7cc-8f23abd4b296.selectedgroup.name}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>7f1d0a1c13287f4061e07f176144b010</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-28 16:13:52</sys_created_on>
+        <sys_id>e12d0a1c13287f4061e07f176144b0a0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-28 16:31:08</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>[GCC][AD Automation] User {{7eb4477e-b80f-43e7-b7cc-8f23abd4b296.selecteduser.name}} added to group {{7eb4477e-b80f-43e7-b7cc-8f23abd4b296.selectedgroup.name}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>7f1d0a1c13287f4061e07f176144b010</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-28 16:13:52</sys_created_on>
+        <sys_id>212d0a1c13287f4061e07f176144b0a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-28 16:13:52</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>{{Service Catalog_1.request_item.opened_by.email}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>7f1d0a1c13287f4061e07f176144b010</id>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-28 16:13:45</sys_created_on>
+        <sys_id>7b1d0a1c13287f4061e07f176144b016</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-28 16:13:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>{{Service Catalog_1.request_item.opened_by.email}}</value>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>em_alert_restart_services</internal_name>
+        <label_cache>[{"name":"subflow.ci","label":"Input➛ci","reference":"","reference_display":"","type":"string","base_type":"string","column_name":""},{"name":"dcb98145-bf1e-4ba0-bcd8-f59cae999d46.Table","label":"2➛Alert Table","reference":"em_alert","reference_display":"Alert","type":"table_name","base_type":"table_name"},{"name":"dcb98145-bf1e-4ba0-bcd8-f59cae999d46.Record","label":"2➛Alert Record","reference":"em_alert","reference_display":"Alert","type":"reference","base_type":"reference"},{"name":"subflow.servicename","label":"Input➛ServiceName","reference":"","reference_display":"","type":"string","base_type":"string","column_name":""},{"name":"8732df57-4d16-4d98-823f-7f24c9d66e3e.record","label":"3➛Alert Record","reference":"em_alert","reference_display":"Alert","type":"reference","base_type":"reference"},{"name":"8732df57-4d16-4d98-823f-7f24c9d66e3e.table_name","label":"3➛Alert Table","reference":"em_alert","reference_display":"Alert","type":"table_name","base_type":"table_name"}]</label_cache>
+        <latest_snapshot>b1cab80013047b4061e07f176144b0ef</latest_snapshot>
+        <master_snapshot>1b91308c13807b4061e07f176144b0d9</master_snapshot>
+        <name>EM_Alert_Restart_Services</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-02 18:22:16</sys_created_on>
+        <sys_id>3831744c13807b4061e07f176144b050</sys_id>
+        <sys_mod_count>25</sys_mod_count>
+        <sys_name>EM_Alert_Restart_Services</sys_name>
+        <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+        <sys_update_name>sys_hub_flow_3831744c13807b4061e07f176144b050</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-03-02 19:04:09</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=3831744c13807b4061e07f176144b050"/>
+</record_update>

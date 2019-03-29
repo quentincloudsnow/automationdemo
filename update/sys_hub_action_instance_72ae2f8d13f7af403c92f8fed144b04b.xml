@@ -14,14 +14,14 @@
         <sys_created_by>quentin.carton</sys_created_by>
         <sys_created_on>2019-02-22 00:28:17</sys_created_on>
         <sys_id>72ae2f8d13f7af403c92f8fed144b04b</sys_id>
-        <sys_mod_count>250</sys_mod_count>
+        <sys_mod_count>282</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
         <sys_policy/>
         <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
         <sys_update_name>sys_hub_action_instance_72ae2f8d13f7af403c92f8fed144b04b</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-02-22 22:26:59</sys_updated_on>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:25:22</sys_updated_on>
         <ui_id>c30528aa-fd35-4764-8443-55010f1331fd</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=72ae2f8d13f7af403c92f8fed144b04b"/>

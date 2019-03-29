@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>add_user_to_group</internal_name>
+        <label_cache>[{"name":"7eb4477e-b80f-43e7-b7cc-8f23abd4b296.selecteduser.name","label":"1➛selecteduser➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"name"},{"name":"Service Catalog_1.request_item.opened_by.email","label":"Trigger➛Requested Item Record➛Opened by➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"de103141-11c1-4e02-8d01-2d50bf3df056.email","label":"3➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"7eb4477e-b80f-43e7-b7cc-8f23abd4b296.selecteduser.user_name","label":"1➛selecteduser➛User ID","reference":"","reference_display":"User ID","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"user_name"},{"name":"7eb4477e-b80f-43e7-b7cc-8f23abd4b296.selectedgroup.name","label":"1➛selectedgroup➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"sys_user_group","column_name":"name"},{"name":"224c6fe1-de22-40d2-8aaa-4259706c7a64.Error Message","label":"2➛Error Message","reference_display":"Error Message","type":"string","base_type":"string"},{"name":"7eb4477e-b80f-43e7-b7cc-8f23abd4b296.selecteduser","label":"1➛selecteduser","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"7eb4477e-b80f-43e7-b7cc-8f23abd4b296.selectedgroup","label":"1➛selectedgroup","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference"},{"name":"Service Catalog_1.request_item","label":"Trigger➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference"}]</label_cache>
+        <master>true</master>
+        <name>Add User to Group</name>
+        <outputs/>
+        <parent_flow display_value="Add User to Group">733c4a9813287f4061e07f176144b011</parent_flow>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>quentin.carton</sys_created_by>
+        <sys_created_on>2019-03-28 16:13:53</sys_created_on>
+        <sys_id>7d2d0a1c13287f4061e07f176144b0b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add User to Group</sys_name>
+        <sys_package display_value="Automation demo" source="x_snc_automation_d">31fc2d4113bf6f403c92f8fed144b0df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation demo">31fc2d4113bf6f403c92f8fed144b0df</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_7d2d0a1c13287f4061e07f176144b0b5</sys_update_name>
+        <sys_updated_by>quentin.carton</sys_updated_by>
+        <sys_updated_on>2019-03-28 16:13:53</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_variable_value action="delete_multiple" query="document_key=7d2d0a1c13287f4061e07f176144b0b5"/>
+</record_update>
